@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Daehyun\Desktop\알고리즘 팀프로젝트_7조\Time_Table_Scheduling\Time_Table_Scheduling\TimeTable.h(79,27): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Daehyun\Desktop\알고리즘 팀프로젝트_7조\Time_Table_Scheduling\Time_Table_Scheduling\TimeTable.h(80,35): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Daehyun\Desktop\알고리즘 팀프로젝트_7조\Time_Table_Scheduling\Time_Table_Scheduling\TimeTable.h(89,39): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Time_Table_Scheduling.vcxproj -> C:\Users\Daehyun\Desktop\알고리즘 팀프로젝트_7조\Time_Table_Scheduling\Debug\Time_Table_Scheduling.exe
